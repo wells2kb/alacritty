@@ -1,0 +1,18 @@
+[general]
+working_directory = "C:/Users/kwells/workspace"
+
+[font]
+normal = {family = "ComicShannsMono Nerd Font Mono"}
+
+[colors.primary]
+background = "#000000"
+
+[colors.normal]
+red = "#DC143C"
+green = "#228B22"
+blue = "#0047AB"
+magenta = "#5D3FD3"
+cyan = "#00CCCC"
+
+[terminal]
+shell = "nu"
